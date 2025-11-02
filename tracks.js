@@ -20,7 +20,7 @@ export const AMBIENT_TRACKS = [
       ru: 'Гроза',
       sv: 'Storm'
     },
-    url: 'https://archive.org/download/fire_01/fire_01.mp3'
+    url: 'https://archive.org/download/storm_01/storm_01.mp3'
   },
   {
     id: 'rain',
@@ -53,7 +53,7 @@ export const AMBIENT_TRACKS = [
       sv: 'Vågor'
     },
     url: 'https://archive.org/download/waves_01/waves_01.mp3'
-  },
+  },/*
   {
     id: 'cafe',
     title: {
@@ -69,7 +69,7 @@ export const AMBIENT_TRACKS = [
       sv: 'Kaféstämning'
     },
     url: 'https://archive.org/download/coffee_shop_01/coffee_shop_01.mp3'
-  },
+  },*/
   {
     id: 'fireplace',
     title: {
@@ -85,7 +85,7 @@ export const AMBIENT_TRACKS = [
       sv: 'Öppen spis'
     },
     url: 'https://archive.org/download/fire_01/fire_01.mp3'
-  },
+  },/*
   {
     id: 'lofi1',
     title: {
@@ -117,7 +117,7 @@ export const AMBIENT_TRACKS = [
       sv: 'Lo-fi 2'
     },
     url: ''
-  },
+  },*/
   {
     id: 'xmas_2025',
     title: {
@@ -133,7 +133,7 @@ export const AMBIENT_TRACKS = [
       sv: 'Julspecial: 2025'
     },
     url: 'https://archive.org/download/christmas_2025/christmas_2025.mp3'
-  },
+  },/*
   {
     id: 'halloween',
     title: {
@@ -149,5 +149,5 @@ export const AMBIENT_TRACKS = [
       sv: 'Halloween-special'
     },
     url: ''
-  }
+  }*/
 ];
