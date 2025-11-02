@@ -133,7 +133,7 @@ export const AMBIENT_TRACKS = [
       sv: 'Julspecial: 2025'
     },
     url: 'https://archive.org/download/christmas_2025/christmas_2025.mp3'
-  }/
+  },
   {
     id: 'test',
     title: {
