@@ -133,12 +133,12 @@ export const AMBIENT_TRACKS = [
       sv: 'Julspecial: 2025'
     },
     url: 'https://archive.org/download/christmas_2025/christmas_2025.mp3'
-  },/*
+  },
   {
-    id: 'halloween',
+    id: 'test',
     title: {
       en: 'Halloween Special',
-      it: 'Speciale di Halloween',
+      it: 'test di test',
       fr: 'Spécial Halloween',
       es: 'Especial de Halloween',
       de: 'Halloween-Special',
@@ -149,5 +149,5 @@ export const AMBIENT_TRACKS = [
       sv: 'Halloween-special'
     },
     url: ''
-  }*/
+  }
 ];
