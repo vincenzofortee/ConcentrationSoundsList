@@ -20,7 +20,7 @@ export const AMBIENT_TRACKS = [
       ru: 'Гроза',
       sv: 'Storm'
     },
-    url: 'https://archive.org/download/rain_storm_01/rain_storm_01.mp3'
+    url: 'https://archive.org/download/fire_01/fire_01.mp3'
   },
   {
     id: 'rain',
