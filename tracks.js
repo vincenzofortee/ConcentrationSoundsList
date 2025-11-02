@@ -148,6 +148,6 @@ export const AMBIENT_TRACKS = [
       ru: 'Хэллоуинский спецвыпуск',
       sv: 'Halloween-special'
     },
-    url: 'https://archive.org/download/christmas_2025/christmas_2025.mp3'
+    url: ''
   }
 ];
