@@ -1,5 +1,9 @@
-// Archive of ambient tracks of all IoSonoVinss Toolbox Apps.
-// Updated regularly
+/*
+- Archive of ambient tracks of all IoSonoVinss Toolbox Apps.
+- Updated regularly
+
+- Last Update: 03/11/2025
+*/
 
 export const AMBIENT_TRACKS = [
   {
@@ -56,13 +60,6 @@ export const AMBIENT_TRACKS = [
     id: 'halloween',
     title: {
       en: 'Halloween Special', it: 'Speciale di Halloween', fr: 'Spécial Halloween', es: 'Especial de Halloween', de: 'Halloween‑Special', nl: 'Halloween‑special', pl: 'Specjal Halloween', pt: 'Especial de Halloween', ru: 'Хэллоуинский спецвыпуск', sv: 'Halloween‑special'
-    },
-    url: ''
-  },
-  {
-    id: 'test',
-    title: {
-      en: 'Test Special', it: 'Speciale di Test', fr: 'Spécial Test', es: 'Especial de Test', de: 'Test‑Special', nl: 'Test‑special', pl: 'Specjal Test', pt: 'Especial de Test', ru: 'Тестовый спецвыпуск', sv: 'Test‑special'
     },
     url: ''
   }
